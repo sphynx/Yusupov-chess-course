@@ -1,43 +1,43 @@
-Ex. 1-1
+Ex. 1-1 *
 1. Ne7+ Kh8 2. Qxh7+! Kxh7 3. Rh1# (Anastasia mate)
 forced
 
-Ex. 1-2
+Ex. 1-2 *
 1. Rh8+! Kxh8 2. Qg8# (rook + queen battery, open lines)
 forced
 
-Ex. 1-3 
+Ex. 1-3 *
 1. Qxc6 bxc6 2. Ba6# (Boden mate)
 forced
 
-Ex. 1-4
+Ex. 1-4 *
 1. Qxf8+ Kxf8 2. Re8+ Kg7 3. Rg8# (arabian mate)
 forced
 
-Ex. 1-5
+Ex. 1-5 *
 1...Nh3+!
   a) 2. gxh Qxh2#
   b) 2. Kh1 Qxh2#
 
-Ex. 1-6
+Ex. 1-6 *
 1. Qxh6
   a) 1...gxh 2. Rxh6#
   b) 1...Kg8 2. Qxg7# (or 2. Rxg7#)
 
-Ex. 1-7
+Ex. 1-7 *
 1. Rf8+ Qxf8 2. Qxh7#
 
-Ex. 1-8
+Ex. 1-8 *
 1. Qxh6
   a) 1...Bxh6 2. Rxh6#
   b) 1...Kg8 2. Qxg7#
 
-Ex. 1-9
+Ex. 1-9 **
 1. Ng6+
   a) 1...hxg 2. Rh1+ Kg7 3. Rh7#
   b) 1...Kg7 2. Nxf8+ Kf7 (2...Kxf8 3. Rg8+ winning another rook) +-
 
-Ex. 1-10
+Ex. 1-10 ***
 1...Ng3!
   a) 2. Qxh7 Ne2#
   b) 2. fxg (or hxg) Qxe4 -+
