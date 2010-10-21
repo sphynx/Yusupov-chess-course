@@ -41,6 +41,6 @@ Ex. 1-10
 1...Ng3!
   a) 2. Qxh7 Ne2#
   b) 2. fxg (or hxg) Qxe4 -+
-  c) 2. Qxd4 Ne2+ and then Anastacia mate follows
-  d) 2. Qf4 Ne2+ fork
-  e) 2. Qe3! 
+  c) 2. Qxd4 Ne2+ and then Anastasia mate follows
+  d) 2. Qf4 (or Qe3, or any other Q move) Ne2+ and queen has to take the knight
+     to avoid checkmate
