@@ -2,51 +2,61 @@ Ex. 1-1 *
 1. Ne7+ Kh8 2. Qxh7+! Kxh7 3. Rh1# (Anastasia mate)
 forced
 
+OK
+
 Ex. 1-2 *
 1. Rh8+! Kxh8 2. Qg8# (rook + queen battery, open lines)
 forced
+
+OK
 
 Ex. 1-3 *
 1. Qxc6 bxc6 2. Ba6# (Boden mate)
 forced
 
+OK
+
 Ex. 1-4 *
 1. Qxf8+ Kxf8 2. Re8+ Kg7 3. Rg8# (arabian mate)
 forced
 
+OK
+
 Ex. 1-5 *
-1...Nh3+!
+1...Nh3+! (bishop + queen battery)
   a) 2. gxh Qxh2#
   b) 2. Kh1 Qxh2#
 
+Missed variant: 2. Qxh3 Bxh3 -+
+
 Ex. 1-6 *
-1. Qxh6
+1. Qxh6 (rook + queen battery, open lines)
   a) 1...gxh 2. Rxh6#
   b) 1...Kg8 2. Qxg7# (or 2. Rxg7#)
 
-Ex. 1-7 *
-1. Rf8+ Qxf8 2. Qxh7#
+Ex. 1-7 * 
+1. Rf8+ Qxf8 2. Qxh7# (rook + queen battery)
 forced
 
 Ex. 1-8 *
-1. Qxh6
+1. Qxh6 (open lines mate)
   a) 1...Bxh6 2. Rxh6#
   b) 1...Kg8 2. Qxg7#
 
 Ex. 1-9 **
-1. Ng6+
+1. Ng6+ (arabian mate)
   a) 1...hxg 2. Rh1+ Kg7 3. Rh7#
   b) 1...Kg7 2. Nxf8+ Kf7 (2...Kxf8 3. Rg8+ winning another rook) +-
 
 Ex. 1-10 ***
-1...Ng3!
+1...Ng3! (Anastasia mate)
   a) 2. Qxh7 Ne2#
   b) 2. fxg (or hxg) Qxe4 -+
   c) 2. Qxd4 Ne2+ and then Anastasia mate follows
   d) 2. Qf4 (or Qe3, or any other Q move) Ne2+ and queen has to take the knight
      to avoid checkmate
 
-Ex. 1-11 **
+Ex. 1-11 ** (bishop + rook battery)
 1. Nxd5 (attacking R@e7 -- the only defender of h7)
   a) 1...exd 2. Rxe7 Nxe7 (or Bxe7) 3. Qxh7#
      any other second black move -- black fails to defend h7
